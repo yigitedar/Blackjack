@@ -15,7 +15,7 @@ This project simulates a basic Blackjack game using Python. Cards are randomly d
 
 ```bash
 python Blackjack.py
-
+```
 ## Usage
 Once the game starts, you'll be asked if you want to play a game of Blackjack. Press 'y' to begin, and two cards will be dealt to you. The goal is to have your cards' total value as close to 21 as possible without going over.
 
