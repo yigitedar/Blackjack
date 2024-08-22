@@ -12,7 +12,8 @@ This project simulates a basic Blackjack game using Python. Cards are randomly d
 2. Navigate to the project directory in your terminal or command prompt.
 
 3. Run the following command to start the game:
-'''bash
+
+```bash
 python Blackjack.py
 
 ## Usage
